@@ -1,0 +1,6 @@
+[submodule "lib/SMD.pretty"]
+	path = lib/SMD.pretty
+	url = ../SMD.pretty.git
+[submodule "lib/2.54mm_Pin_Headers.pretty"]
+	path = lib/2.54mm_Pin_Headers.pretty
+	url = ../2.54mm_Pin_Headers.pretty.git
