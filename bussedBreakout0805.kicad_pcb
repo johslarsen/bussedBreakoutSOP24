@@ -2111,7 +2111,7 @@
 			(net 5 "Net-(J3-Pin_1)")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "4cd6f00b-62c0-4f32-9b40-132c2daf4034")
+			(uuid "6ca64a78-4cbc-4de0-90a4-96c62791a4b5")
 		)
 		(pad "1" thru_hole roundrect
 			(at 1.6 0 270)
@@ -2125,7 +2125,7 @@
 			(net 5 "Net-(J3-Pin_1)")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "4cd6f00b-62c0-4f32-9b40-132c2daf4034")
+			(uuid "f96999b9-cfd0-465c-b577-95d322429987")
 		)
 		(pad "1" thru_hole roundrect
 			(at 1.6 1.6 270)
@@ -2139,7 +2139,7 @@
 			(net 5 "Net-(J3-Pin_1)")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "4cd6f00b-62c0-4f32-9b40-132c2daf4034")
+			(uuid "cfb0e8e6-b703-47c4-b9fa-49d7510ddb50")
 		)
 		(embedded_fonts no)
 	)
@@ -8022,6 +8022,76 @@
 			(uuid "14b12512-5b2b-471b-b907-69ca5101e179")
 		)
 		(embedded_fonts no)
+	)
+	(gr_line
+		(start 33.02 27)
+		(end 33.02 56.642)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(layer "B.Mask")
+		(uuid "0c2ada6f-d48b-4d4d-93bd-61e0f0b5024a")
+	)
+	(gr_line
+		(start 31.1912 27.432)
+		(end 31.1912 56.388)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(layer "B.Mask")
+		(uuid "1805d6a5-771a-4914-b79c-e19c5d3d9133")
+	)
+	(gr_line
+		(start 36.6776 27.432)
+		(end 36.6776 56.388)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(layer "B.Mask")
+		(uuid "20b7a0ed-b51b-43d9-adae-a922afd4dc54")
+	)
+	(gr_line
+		(start 29.3624 56.388)
+		(end 29.3624 27.432)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(layer "B.Mask")
+		(uuid "31992c53-2b53-4f46-94b9-30b8198eb747")
+	)
+	(gr_line
+		(start 34.798 56.388)
+		(end 34.798 27.3304)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(layer "B.Mask")
+		(uuid "331c28a4-86b5-4d30-bfe9-1786707e769c")
+	)
+	(gr_line
+		(start 27.559 27.305)
+		(end 27.559 56.388)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(layer "B.Mask")
+		(uuid "4c3d3ced-fb2d-4bab-bd41-e7f414ff6a3b")
+	)
+	(gr_line
+		(start 38.481 56.388)
+		(end 38.481 27.432)
+		(stroke
+			(width 0.4)
+			(type solid)
+		)
+		(layer "B.Mask")
+		(uuid "d9925d34-9355-4bf3-a9b3-94b025d219cc")
 	)
 	(gr_text "A"
 		(at 28.829 57.404 0)
