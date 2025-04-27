@@ -60,7 +60,7 @@
         "annular_width": "error",
         "clearance": "error",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "creepage": "error",
@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "bussedBreakout.kicad_pro",
+    "filename": "bussedBreakout0805.kicad_pro",
     "version": 3
   },
   "net_settings": {
