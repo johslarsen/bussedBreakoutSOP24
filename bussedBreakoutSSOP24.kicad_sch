@@ -5342,7 +5342,7 @@
 			(uuid "c0e2cc06-47e7-4b58-a595-52b98b27d1e2")
 		)
 		(instances
-			(project "bussedBreakoutSOP24"
+			(project "bussedBreakoutSSOP24"
 				(path "/4df19105-13ee-4b1d-9e04-7651197a8529"
 					(reference "JP20")
 					(unit 1)
@@ -5576,7 +5576,7 @@
 			(uuid "ae4ec1c0-149d-470d-a7de-32e0bb993dc3")
 		)
 		(instances
-			(project "bussedBreakoutSOP24"
+			(project "bussedBreakoutSSOP24"
 				(path "/4df19105-13ee-4b1d-9e04-7651197a8529"
 					(reference "J8")
 					(unit 1)
@@ -6099,7 +6099,7 @@
 			(uuid "5985a068-a30e-43ae-a5ef-debbcf445929")
 		)
 		(instances
-			(project "bussedBreakoutSOP24"
+			(project "bussedBreakoutSSOP24"
 				(path "/4df19105-13ee-4b1d-9e04-7651197a8529"
 					(reference "JP21")
 					(unit 1)
@@ -6167,7 +6167,7 @@
 			(uuid "13a3bfeb-10fd-4a65-a252-7b903e9c299f")
 		)
 		(instances
-			(project "bussedBreakoutSOP24"
+			(project "bussedBreakoutSSOP24"
 				(path "/4df19105-13ee-4b1d-9e04-7651197a8529"
 					(reference "JP17")
 					(unit 1)
@@ -6410,7 +6410,7 @@
 			(uuid "b2715645-409a-4350-ad5b-4e0bb9ab65fc")
 		)
 		(instances
-			(project "bussedBreakoutSOP24"
+			(project "bussedBreakoutSSOP24"
 				(path "/4df19105-13ee-4b1d-9e04-7651197a8529"
 					(reference "JP18")
 					(unit 1)
@@ -6676,7 +6676,7 @@
 				)
 			)
 		)
-		(property "Value" "SOP-24"
+		(property "Value" "SSOP-24"
 			(at 105.41 19.05 0)
 			(effects
 				(font
@@ -6684,7 +6684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SMD:SOP-24_3.9-7.5mmx15.4mm_P1.27mm"
+		(property "Footprint" "SMD:SSOP-24_3.9-7.5mmx8.2mm_P0.65mm"
 			(at 104.14 35.56 0)
 			(effects
 				(font
@@ -6992,7 +6992,7 @@
 			(uuid "5efb0d4e-3e2b-4a74-b2ac-a4e4b29a0e72")
 		)
 		(instances
-			(project "bussedBreakoutSOP24"
+			(project "bussedBreakoutSSOP24"
 				(path "/4df19105-13ee-4b1d-9e04-7651197a8529"
 					(reference "JP23")
 					(unit 1)
@@ -7779,7 +7779,7 @@
 			(uuid "60293582-f837-4c00-a2ac-c49879ec20d4")
 		)
 		(instances
-			(project "bussedBreakoutSOP24"
+			(project "bussedBreakoutSSOP24"
 				(path "/4df19105-13ee-4b1d-9e04-7651197a8529"
 					(reference "JP24")
 					(unit 1)
@@ -7979,7 +7979,7 @@
 			(uuid "e89c6ffb-4bde-4feb-9d34-faa4598db613")
 		)
 		(instances
-			(project "bussedBreakoutSOP24"
+			(project "bussedBreakoutSSOP24"
 				(path "/4df19105-13ee-4b1d-9e04-7651197a8529"
 					(reference "JP19")
 					(unit 1)
@@ -8613,7 +8613,7 @@
 			(uuid "bc9acb4d-6ce5-409f-a171-0bffe59dae85")
 		)
 		(instances
-			(project "bussedBreakoutSOP24"
+			(project "bussedBreakoutSSOP24"
 				(path "/4df19105-13ee-4b1d-9e04-7651197a8529"
 					(reference "JP22")
 					(unit 1)
